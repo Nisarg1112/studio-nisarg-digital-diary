@@ -13,7 +13,7 @@ This guide will help you set up and run Sanity Content Studio locally. Follow th
 ### 1. Repository Setup
 ```
 # Clone the repository
-git clone https://github.com/Nisarg1112/studio-nisarg-digital-diary
+git clone https://github.com/Nisarg1112/studio-nisarg-digital-diary.git
 
 # Navigate to project directory
 cd studio-nisarg-digital-diary
