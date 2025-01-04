@@ -10,7 +10,7 @@ This guide will help you set up and run Sanity Content Studio locally. Follow th
 
 ## Installation Steps
 
-# 1. Repository Setup
+### 1. Repository Setup
 ```
 # Clone the repository
 git clone https://github.com/Nisarg1112/studio-nisarg-digital-diary
@@ -19,7 +19,7 @@ git clone https://github.com/Nisarg1112/studio-nisarg-digital-diary
 cd studio-nisarg-digital-diary
 ```
 
-# 2. Node.js Setup
+### 2. Node.js Setup
 ```
 # Install Node.js using nvm
 nvm install 20.17.0
@@ -28,13 +28,13 @@ nvm install 20.17.0
 npm -v  # Should show 10.8.2
 ```
 
-# 2. Installl dependencies
+### 3. Installl dependencies
 ```
 # Install required dependencies
 npm i
 ```
 
-# 3. Sanity.io Configuration
+### 4. Sanity.io Configuration
 1. Create an account at Sanity.io
 2. Create a new project, refer to the screenshot below
 
@@ -48,7 +48,7 @@ npm i
 
 > Note: The default dataset **"production"** will be created automatically
 
-# 4. Launch Content Studio
+### 5. Launch Content Studio
 ```
 # Create a new `.env` file in the root directory
 touch .env
